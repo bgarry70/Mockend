@@ -1,0 +1,25 @@
+{
+    "APIResponse": {
+        "ResponseCode": 0,
+        "ResponseText": "Success"
+    },
+    "DVTokenResp": {
+        "BankAccountDetails": null,
+        "CardDetails": {
+            "CardHolderName": "John Smith",
+            "Category": "STANDARD",
+            "ExpiryDate": "0523",
+            "Issuer": "AFRILAND FIRST BANK",
+            "IssuerCountryCode": "LBR",
+            "Localisation": "unknown",
+            "MaskedCardNumber": "512345...346",
+            "SubType": "credit"
+        },
+        "CardType": "MC",
+        "Crn1": "12345",
+        "Crn2": "",
+        "Crn3": null,
+        "DVToken": "5999993700256132",
+        "EmailAddress": "john.smith@email.com.au"
+    }
+}
